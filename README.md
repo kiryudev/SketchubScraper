@@ -5,7 +5,7 @@ Sketchubscraper is a Python script for scraping data from the Sketchub website (
 ## Example Usage
 
 ```python
-from sketchubscraper import recent, editor_choice, trending, most_liked, user_info
+from sketchubscraper import recent, editor_choice, trending, most_liked, user_info, app_info
 
 # Get recent apps
 recent_apps = recent()
