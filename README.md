@@ -1,6 +1,11 @@
 # SketchubScraper
 
-Sketchubscraper is a Python script for scraping data from the Sketchub website (https://web.sketchub.in). It provides functions to retrieve information about apps and users.
+Sketchubscraper is a Python libary for scraping data from the Sketchub website (https://web.sketchub.in). It provides functions to retrieve information about apps and users.
+
+## Installation
+```bash
+pip install sketchubscraper
+```
 
 ## Example Usage
 
